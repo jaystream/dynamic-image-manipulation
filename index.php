@@ -1,6 +1,6 @@
 <?php
 	/**
-	 * View image header
+	 * View image dynamically
 	 * 
 	 * @return mixed
 	 */
