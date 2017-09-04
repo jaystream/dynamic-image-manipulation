@@ -13,7 +13,7 @@ Just place the url into your image tag.
 
 ## php code
 
-```
+```php
 
 <?php
 	/**
