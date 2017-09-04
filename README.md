@@ -7,6 +7,6 @@ Just place the url into your image tag.
 
 ```
 
-<image href="http://www.yourdomain.com/index.php?height=150&width=150&path=/path/to/your/image/file/" />
+<img href="http://www.yourdomain.com/index.php?height=150&width=150&path=/path/to/your/image/file/" />
 
 ```
